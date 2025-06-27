@@ -3,7 +3,7 @@
 ## How to Run
 
 1. Ensure Python is installed on your system.
-2. Place your Markdown file as `sample.md` in the root folder.
+2. Place your Markdown file as `input.md` in the root folder.
 3. Run the script:
 
 ```
